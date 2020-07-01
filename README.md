@@ -11,5 +11,5 @@
 ### Second Class - Circle
 * radius property
 * diameter property
-* circumference
+* circumference property
 * updated printInfo method
